@@ -1,0 +1,153 @@
+[
+    {
+      "questionText": "What car is this?",
+      "imgSrc": "image1.jpg",
+      "answerOptions": [
+        { "answerText": "BMW", "isCorrect": false },
+        { "answerText": "Audi", "isCorrect": false },
+        { "answerText": "Mercedes", "isCorrect": false },
+        { "answerText": "Ford", "isCorrect": true }
+      ]
+    },
+    {
+      "questionText": "Which part of the car is responsible for cooling the engine?",
+      "imgSrc": "https://www.oppozit.lv/wp-content/themes/oppozit/img/radiatori.png",
+      "answerOptions": [
+        { "answerText": "Radiator", "isCorrect": true },
+        { "answerText": "Alternator", "isCorrect": false },
+        { "answerText": "Starter", "isCorrect": false },
+        { "answerText": "Distributor", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of this car part?",
+      "imgSrc": "https://www.familyhandyman.com/wp-content/uploads/2020/03/Brake-Caliper-GettyImages-691429614.jpg",
+      "answerOptions": [
+        { "answerText": "Brake Caliper", "isCorrect": true },
+        { "answerText": "Fuel Injector", "isCorrect": false },
+        { "answerText": "Oil Filter", "isCorrect": false },
+        { "answerText": "Timing Belt", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Which of the following is an electric car manufacturer?",
+      "imgSrc": "https://cdn.logojoy.com/wp-content/uploads/20240110153809/Black-tesla-logo-600x600.png",
+      "answerOptions": [
+        { "answerText": "Ford", "isCorrect": false },
+        { "answerText": "Chevrolet", "isCorrect": false },
+        { "answerText": "Tesla", "isCorrect": true },
+        { "answerText": "Nissan", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What car is this?",
+      "imgSrc": "https://www.autoscout24.it/cms-content-assets/1qzdgJF4iYltZDsb6tOpLW-d44cbcf8ec3cb959494ac40c36d48a07-ferrari-458-italia-side-1100.jpeg",
+      "answerOptions": [
+        { "answerText": "Ferrari", "isCorrect": true },
+        { "answerText": "Lamborghini", "isCorrect": false },
+        { "answerText": "McLaren", "isCorrect": false },
+        { "answerText": "Porsche", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Which part of the car is responsible for generating electricity?",
+      "imgSrc": "https://m.media-amazon.com/images/I/71qpg9+CzuL._AC_UF894,1000_QL80_.jpg",
+      "answerOptions": [
+        { "answerText": "Alternator", "isCorrect": true },
+        { "answerText": "Battery", "isCorrect": false },
+        { "answerText": "Spark Plug", "isCorrect": false },
+        { "answerText": "Starter Motor", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of this car part?",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb4MaPsxnooAGswLxgP3TaSTekCqPTqQ7Bww&s",
+      "answerOptions": [
+        { "answerText": "Carburetor", "isCorrect": false },
+        { "answerText": "Turbocharger", "isCorrect": true },
+        { "answerText": "Exhaust Manifold", "isCorrect": false },
+        { "answerText": "Intake Manifold", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Which of the following is a hybrid car?",
+      "imgSrc": "https://cimg1.ibsrv.net/ibimg/hgm/1920x1080-1/100/883/2023-toyota-prius_100883321.jpg",
+      "answerOptions": [
+        { "answerText": "Toyota Prius", "isCorrect": true },
+        { "answerText": "Ford Mustang", "isCorrect": false },
+        { "answerText": "Chevrolet Camaro", "isCorrect": false },
+        { "answerText": "Nissan 370Z", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What car is this?",
+      "imgSrc": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/12/1200/675/vette-rear.jpg?ve=1&tl=1",
+      "answerOptions": [
+        { "answerText": "Chevrolet Corvette", "isCorrect": true },
+        { "answerText": "Ford GT", "isCorrect": false },
+        { "answerText": "Dodge Viper", "isCorrect": false },
+        { "answerText": "Porsche 911", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Which part of the car is responsible for the ignition of the fuel-air mixture?",
+      "imgSrc": "https://www.common-motor.com/cdn-cgi/image/quality%3D100%2Cformat%3Dauto%2Csharpen%3D0%2Cbackground%3Dtransparent/assets/images/3015%20-%20honda-spark-plug-ngk.jpg",
+      "answerOptions": [
+        { "answerText": "Spark Plug", "isCorrect": true },
+        { "answerText": "Fuel Pump", "isCorrect": false },
+        { "answerText": "Alternator", "isCorrect": false },
+        { "answerText": "Distributor", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of this car part?",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxr3PIW1YxAazy7L8AR6aQmlNsh2clSXLi7A&s",
+      "answerOptions": [
+        { "answerText": "Exhaust Manifold", "isCorrect": true },
+        { "answerText": "Catalytic Converter", "isCorrect": false },
+        { "answerText": "Muffler", "isCorrect": false },
+        { "answerText": "Fuel Injector", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Which car company produces the Model S?",
+      "imgSrc": "https://cdn.logojoy.com/wp-content/uploads/20240110153809/Black-tesla-logo-600x600.png",
+      "answerOptions": [
+        { "answerText": "Tesla", "isCorrect": true },
+        { "answerText": "BMW", "isCorrect": false },
+        { "answerText": "Audi", "isCorrect": false },
+        { "answerText": "Mercedes-Benz", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What car is this?",
+      "imgSrc": "https://www.evanshalshaw.com/-/media/evanshalshaw/blog/car-legends-the-legacy-of-the-ford-mustang/2021-update/ford-mustang-bullitt-1920x774px.ashx",
+      "answerOptions": [
+        { "answerText": "Ford Mustang", "isCorrect": true },
+        { "answerText": "Chevrolet Camaro", "isCorrect": false },
+        { "answerText": "Dodge Challenger", "isCorrect": false },
+        { "answerText": "Pontiac Firebird", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Which part of the car is responsible for the transfer of power from the engine to the wheels?",
+      "imgSrc": "https://cdn-ghplb.nitrocdn.com/kuUjAFQDsqFCXCCcrhYfdOjqiITSnBsj/assets/images/optimized/rev-2b7d3bb/reliable-auto.com/wp-content/uploads/2020/04/services_transmission-repair.jpg",
+      "answerOptions": [
+        { "answerText": "Transmission", "isCorrect": true },
+        { "answerText": "Drive Shaft", "isCorrect": false },
+        { "answerText": "Differential", "isCorrect": false },
+        { "answerText": "Axle", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of this car part?",
+      "imgSrc": "https://www.progressive.com/lifelanes/wp-content/uploads/2022/11/PN1330_LLCatalyticConverters_Header.jpg",
+      "answerOptions": [
+        { "answerText": "Catalytic Converter", "isCorrect": true },
+        { "answerText": "Exhaust Manifold", "isCorrect": false },
+        { "answerText": "Muffler", "isCorrect": false },
+        { "answerText": "Oxygen Sensor", "isCorrect": false }
+      ]
+    }
+  ]
+  
